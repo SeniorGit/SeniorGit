@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://u-static.fotor.com/images/text-to-image/result/PRO-5da1f40098c049368dfe13c50b192aa3.jpg)"/>
+<img align="right" alt="Coding" width="400" src="(https://u-static.fotor.com/images/text-to-image/result/PRO-5da1f40098c049368dfe13c50b192aa3.jpg)"/>
 
 <h1 align="center">Hi 👋, I'm Alfito Nur Fadhila</h1>
 <h3 align="center">An interest in machine learning</h3>
