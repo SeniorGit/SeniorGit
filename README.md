@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alfito Nur Fadhila</h1>
 <h3 align="center">An interest in machine learning</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/SeniorGit/SeniorGit/assets/88030166/896b6bc4-86e0-4621-b9b4-cd8aa11a63ca">
+<img align="right" alt="Coding" width="400" src="https://u-static.fotor.com/images/text-to-image/result/PRO-5da1f40098c049368dfe13c50b192aa3.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seniorgit&label=Profile%20views&color=0e75b6&style=flat" alt="seniorgit" /> </p>
 
