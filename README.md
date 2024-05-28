@@ -5,12 +5,12 @@
 <img align="right" alt="Coding" width="400" src="https://u-static.fotor.com/images/text-to-image/result/PRO-5da1f40098c049368dfe13c50b192aa3.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seniorgit&label=Profile%20views&color=0e75b6&style=flat" alt="seniorgit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seniorgit" alt="seniorgit" /></a> </p>
-
 - 🔭 I’m currently working on **Detection Defect Coffee Beans**
 
 - 🌱 I’m currently learning **Machine Learning and Object Detection**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seniorgit" alt="seniorgit" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
