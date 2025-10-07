@@ -130,14 +130,22 @@
 
 ---
 
-<p align="center">
-  <i>⚡ "First, solve the problem. Then, write the code." - John Johnson</i>
-</p>
+## 🌟 Featured Projects
+
+### 🔥 [ToDoList App](https://github.com/SeniorGit/TODOLIST)
+A modern task management application built with React and Node.js
+
+### 🎨 [Portfolio Website](https://alfitodev.my.id)
+My personal portfolio showcasing projects and skills
+
+---
 
 <div align="center">
-  
+
 ### 🎉 Thanks for visiting my profile!
 
-![Snake animation](https://github.com/SeniorGit/SeniorGit/blob/output/github-contribution-grid-snake.svg)
+**"Code is like humor. When you have to explain it, it's bad."** - Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=100&section=footer" />
 
 </div>
