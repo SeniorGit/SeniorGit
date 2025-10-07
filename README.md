@@ -81,7 +81,7 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-*💡 Note: Activity will show here once you start committing!*
+
 
 ---
 
