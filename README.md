@@ -32,3 +32,54 @@ const alfito = {
   philosophy: "Write code that humans can understand",
   funFact: "I debug with console.log() like a true developer 😄"
 };
+💻 Tech Stack & Tools
+Frontend Development
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
+Backend Development
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=json&logoColor=white
+
+Tools & Platforms
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+
+📊 GitHub Analytics
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeniorGit&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Alfito's GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeniorGit&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeniorGit&theme=radical&hide_border=true&fire=7F5AF0&ring=7F5AF0" alt="GitHub Streak" /> </p>
+🎯 Currently Working On
+🔭 Portfolio Website - alfitodev.my.id
+
+🌱 Learning: Advanced React Patterns & System Design
+
+👯 Looking to collaborate on open source projects
+
+💼 Open for Fullstack Developer roles
+
+📈 GitHub Activity
+<!--START_SECTION:activity--><!--END_SECTION:activity-->
+💡 Note: Activity will show here once you start committing!
+
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SeniorGit&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" /> </p>
+📫 Let's Connect!
+<p align="center"> <a href="https://alfitodev.my.id" target="_blank"> <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF7139?style=for-the-badge&logo=opsgenie&logoColor=white" /> </a> <a href="https://linkedin.com/in/alfitofadhil" target="_blank"> <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:alfito.fadhil@gmail.com"> <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+❤️ Views and Followers
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SeniorGit&color=7F5AF0&style=flat-square" alt="Profile views" /> <a href="https://github.com/SeniorGit?tab=followers"> <img src="https://img.shields.io/github/followers/SeniorGit?color=7F5AF0&label=Followers&style=flat-square" alt="GitHub Followers" /> </a> </p><p align="center"> <i>Random Developer Quote:</i><br> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>
+<p align="center"> <i>⚡ "First, solve the problem. Then, write the code." - John Johnson</i> </p><div align="center">
+🎉 Thanks for visiting my profile!
+https://github.com/SeniorGit/SeniorGit/blob/output/github-contribution-grid-snake.svg
+
+</div> ```
