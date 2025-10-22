@@ -9,7 +9,7 @@
   <a href="https://alfitodev.my.id" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge&logo=opsgenie&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/alfitofadhil" target="_blank">
+  <a href="https://linkedin.com/in/alfitofadhil-dev" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
