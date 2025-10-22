@@ -76,15 +76,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -126,9 +117,6 @@
 ---
 
 ## 🌟 Featured Projects
-
-### 🔥 [ToDoList App](https://github.com/SeniorGit/TODOLIST)
-A modern task management application built with React and Node.js
 
 ### 🎨 [Portfolio Website](https://alfitodev.my.id)
 My personal portfolio showcasing projects and skills
